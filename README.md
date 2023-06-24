@@ -17,5 +17,6 @@ Turn this option on.
 6. Once you've completed all the steps, restart your web browser, visit the website where you watch anime, and the sync should work.
 
 Tested by me on [zoro.to](https://zoro.to/)
+See more [Supported pages](https://github.com/MALSync/MALSync#mal-sync)
 
 All credits go to [lolamtisch](https://github.com/lolamtisch).
