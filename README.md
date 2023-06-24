@@ -11,11 +11,10 @@ Turn this option on.
 ### Installation
 1. Download the MAL extension [MAL-Sync](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel)
 2. Press the extension icon on the top right and sync your MAL account.
-
 3. Download Discord Rich Presence Extension: [Chrome](https://chrome.google.com/webstore/detail/discord-rich-presence/agnaejlkbiiggajjmnpmeheigkflbnoo) / [Firefox](https://addons.mozilla.org/firefox/addon/discord-rich-presence/)
-
 4. Download the sync app: [Discord Rich Presence](https://github.com/lolamtisch/Discord-RPC-Extension/releases/latest)
-5. Unzip and run server_win.exe. If you want it to run automatically when windows starts, run startup_windows.bat
+5. Unzip the downloaded file and run server_win.exe. If you want it to start automatically when Windows starts, run startup_windows.bat.
+6. Once you've completed all the steps, restart your web browser, visit the website where you watch anime, and the sync should work.
 
 Tested by me on [zoro.to](https://zoro.to/)
 
