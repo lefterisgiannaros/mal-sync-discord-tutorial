@@ -20,3 +20,6 @@ Tested on [zoro.to](https://zoro.to/)
 See more [Supported pages](https://github.com/MALSync/MALSync#mal-sync)
 
 All credits go to [lolamtisch](https://github.com/lolamtisch).
+
+FIX FOR ANIWATCH.TO (now zoro.to)
+update your prefrences here https://malsync.moe/pwa/#/settings/customDomains
