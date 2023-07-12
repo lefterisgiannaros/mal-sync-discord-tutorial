@@ -16,10 +16,11 @@ Turn this option on.
 5. Unzip the downloaded file and run server_win.exe. If you want it to start automatically when Windows starts, run startup_windows.bat.
 6. Once you've completed all the steps, restart your web browser, visit the website where you watch anime, and the sync should work.
 
-Tested on [zoro.to](https://zoro.to/)
+Tested on
+[aniwatch.to]([https://zoro.to/](https://aniwatch.to/))
 See more [Supported pages](https://github.com/MALSync/MALSync#mal-sync)
 
 All credits go to [lolamtisch](https://github.com/lolamtisch).
 
-FIX FOR ANIWATCH.TO (now zoro.to)
+July 2023 FIX FOR ANIWATCH.TO (ex zoro.to)
 update your prefrences here https://malsync.moe/pwa/#/settings/customDomains
